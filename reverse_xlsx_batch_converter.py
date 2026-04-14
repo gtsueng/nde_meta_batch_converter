@@ -8,15 +8,6 @@ from typing import Any
 import pandas as pd
 
 
-TARGET_FILES = [
-    "ACTG.json",
-    "BV-BRC.json",
-    "IEDB.json",
-    "ITN TrialShare.json",
-    "mwccs.json",
-    "TBPortals.json",
-    "ImmuneSpace.json",
-]
 
 RESOURCE_BASE_COLUMNS = [
     "name",
@@ -113,6 +104,8 @@ HANDLED_PROPERTIES = {
     "version",
 }
 
+BATCH_FILE_SUFFIXES = ("_batch_file.json", "_batch_file2.json")
+
 
 def ensure_list(value: Any) -> list[Any]:
     if value is None:
@@ -120,6 +113,24 @@ def ensure_list(value: Any) -> list[Any]:
     if isinstance(value, list):
         return value
     return [value]
+
+
+def list_resource_catalog_files(json_dir: Path) -> list[str]:
+    return sorted(
+        path.name
+        for path in json_dir.glob("*.json")
+        if not path.name.endswith(BATCH_FILE_SUFFIXES)
+    )
+
+
+def resolve_target_files(json_dir: Path, target: str | list[str] | None) -> list[str]:
+    if target is None:
+        if DEFAULT_TARGET_FILES:
+            return DEFAULT_TARGET_FILES
+        return list_resource_catalog_files(json_dir)
+    if isinstance(target, str):
+        return [target]
+    return target
 
 
 def clean_cell(value: Any) -> Any:
@@ -417,12 +428,12 @@ def build_workbook_frames(json_dir: Path, target_files: list[str]) -> dict[str, 
 def convert_resource_catalogs(
     json_dir: Path | None = None,
     output_path: Path | None = None,
-    target_files: list[str] | None = None,
+    target: str | list[str] | None = None,
 ) -> Path:
     script_path = Path.cwd()
     parent_path = script_path.parent
     json_dir = json_dir or parent_path / "nde-metadata-corrections" / "metadata_for_DDE" / "resourceCatalogs"
-    target_files = target_files or TARGET_FILES
+    target_files = resolve_target_files(json_dir=json_dir, target=target)
     output_path = output_path or script_path / "data" / f"{datetime.now():%Y_%m_%d}_RepoMetaCuration_reverse.xlsx"
 
     frames = build_workbook_frames(json_dir=json_dir, target_files=target_files)
