@@ -1,0 +1,702 @@
+{
+    "pmid:26720014": {
+        "@type": "ScholarlyArticle",
+        "name": "Collaboration and Conflict: Looking Back at the 30-Year History of the AIDS Clinical Trials Group.",
+        "pmid": "26720014"
+    },
+    "pmid:36350631": {
+        "@type": "ScholarlyArticle",
+        "name": "Introducing the Bacterial and Viral Bioinformatics Resource Center (BV-BRC): a resource combining PATRIC, IRD and ViPR.",
+        "pmid": "36350631"
+    },
+    "pmid:30357391": {
+        "@type": "ScholarlyArticle",
+        "name": "The Immune Epitope Database (IEDB): 2018 update.",
+        "pmid": "30357391"
+    },
+    "pmid:27474121": {
+        "@type": "ScholarlyArticle",
+        "name": "Clinical trial data access: Opening doors with TrialShare.",
+        "pmid": "27474121"
+    },
+    "pmid:3300281": {
+        "@type": "ScholarlyArticle",
+        "name": "The Multicenter AIDS Cohort Study: rationale, organization, and selected characteristics of the participants.",
+        "pmid": "3300281"
+    },
+    "pmid:33675224": {
+        "@type": "ScholarlyArticle",
+        "name": "Characteristics of the MACS/WIHS Combined Cohort Study: Opportunities for Research on Aging With HIV in the Longest US Observational Study of HIV.",
+        "pmid": "33675224"
+    },
+    "pmid:9504278": {
+        "@type": "ScholarlyArticle",
+        "name": "The Women's Interagency HIV Study. WIHS Collaborative Study Group.",
+        "pmid": "9504278"
+    },
+    "pmid:28904183": {
+        "@type": "ScholarlyArticle",
+        "name": "The TB Portals: an Open-Access, Web-Based Platform for Global Drug-Resistant-Tuberculosis Data Sharing and Analysis.",
+        "pmid": "28904183"
+    },
+    "pmid:23648045": {
+        "@type": "ScholarlyArticle",
+        "name": "Understanding the human immune system in the 21st century: the Human Immunology Project Consortium.",
+        "pmid": "23648045"
+    },
+    "pmid:33151284": {
+        "@type": "ScholarlyArticle",
+        "name": "DBAASP v3: database of antimicrobial/cytotoxic activity and structure of peptides as a resource for development of new therapeutics.",
+        "pmid": "33151284"
+    },
+    "pmid:37994703": {
+        "@type": "ScholarlyArticle",
+        "name": "EMDB-the Electron Microscopy Data Bank.",
+        "pmid": "37994703"
+    },
+    "pmid:16381952": {
+        "@type": "ScholarlyArticle",
+        "name": "The PeptideAtlas project.",
+        "pmid": "16381952"
+    },
+    "pmid:20013378": {
+        "@type": "ScholarlyArticle",
+        "name": "The PeptideAtlas Project.",
+        "pmid": "20013378"
+    },
+    "pmid:36408920": {
+        "@type": "ScholarlyArticle",
+        "name": "UniProt: the Universal Protein Knowledgebase in 2023.",
+        "pmid": "36408920"
+    },
+    "pmid:25428358": {
+        "@type": "ScholarlyArticle",
+        "name": "NCBI viral genomes resource.",
+        "pmid": "25428358"
+    },
+    "pmid:18971311": {
+        "@type": "ScholarlyArticle",
+        "name": "Ethical, legal, and social considerations in conducting the Human Microbiome Project.",
+        "pmid": "18971311"
+    },
+    "pmid:27899678": {
+        "@type": "ScholarlyArticle",
+        "name": "Virus Variation Resource - improved response to emergent viral outbreaks.",
+        "pmid": "27899678"
+    },
+    "pmid:24304891": {
+        "@type": "ScholarlyArticle",
+        "name": "Virus Variation Resource--recent updates and future directions.",
+        "pmid": "24304891"
+    },
+    "pmid:35134929": {
+        "@type": "ScholarlyArticle",
+        "name": "WormBase in 2022-data, processes, and tools for analyzing Caenorhabditis elegans.",
+        "pmid": "35134929"
+    },
+    "pmid:35980571": {
+        "@type": "ScholarlyArticle",
+        "name": "Using FlyBase: A Database of Drosophila Genes and Genetics.",
+        "pmid": "35980571"
+    },
+    "pmid:38301657": {
+        "@type": "ScholarlyArticle",
+        "name": "FlyBase: updates to the Drosophila genes and genomes database.",
+        "pmid": "38301657"
+    },
+    "pmid:36607068": {
+        "@type": "ScholarlyArticle",
+        "name": "Saccharomyces genome database update: server architecture, pan-genome nomenclature, and external resources.",
+        "pmid": "36607068"
+    },
+    "pmid:29165669": {
+        "@type": "ScholarlyArticle",
+        "name": "ClinVar: improving access to variant interpretations and supporting evidence.",
+        "pmid": "29165669"
+    },
+    "pmid:26014595": {
+        "@type": "ScholarlyArticle",
+        "name": "ClinGen--the Clinical Genome Resource.",
+        "pmid": "26014595"
+    },
+    "pmid:38192205": {
+        "@type": "ScholarlyArticle",
+        "name": "NIH HIV Reagent Program: A Valuable Resource for HIV Research.",
+        "pmid": "38192205"
+    },
+    "pmid:18675849": {
+        "@type": "ScholarlyArticle",
+        "name": "BEI Resources: supporting antiviral research.",
+        "pmid": "18675849"
+    },
+    "pmid:1629336": {
+        "@type": "ScholarlyArticle",
+        "name": "Standardization of sensitive human immunodeficiency virus coculture procedures and establishment of a multicenter quality assurance program for the AIDS Clinical Trials Group. The NIH/NIAID/DAIDS/ACTG Virology Laboratories.",
+        "pmid": "1629336"
+    },
+    "pmid:24709391": {
+        "@type": "ScholarlyArticle",
+        "name": "Benefits of a comprehensive quality program for cryopreserved PBMC covering 28 clinical trials sites utilizing an integrated, analytical web-based portal.",
+        "pmid": "24709391"
+    },
+    "pmid:30357390": {
+        "@type": "ScholarlyArticle",
+        "name": "ALEdb 1.0: a database of mutations from adaptive laboratory evolution experimentation.",
+        "pmid": "30357390"
+    },
+    "pmid:34718743": {
+        "@type": "ScholarlyArticle",
+        "name": "BacDive in 2022: the knowledge base for standardized bacterial and archaeal data.",
+        "pmid": "34718743"
+    },
+    "pmid:37220074": {
+        "@type": "ScholarlyArticle",
+        "name": "The EcoCyc Database (2023).",
+        "pmid": "37220074"
+    },
+    "pmid:11752253": {
+        "@type": "ScholarlyArticle",
+        "name": "The EcoCyc Database.",
+        "pmid": "11752253"
+    },
+    "pmid:8594595": {
+        "@type": "ScholarlyArticle",
+        "name": "EcoCyc: an encyclopedia of Escherichia coli genes and metabolism.",
+        "pmid": "8594595"
+    },
+    "pmid:22064861": {
+        "@type": "ScholarlyArticle",
+        "name": "The LANL hemorrhagic fever virus database, a new platform for analyzing biothreat viruses.",
+        "pmid": "22064861"
+    },
+    "pmid:16309340": {
+        "@type": "ScholarlyArticle",
+        "name": "Los alamos hepatitis C immunology database.",
+        "pmid": "16309340"
+    },
+    "pmid:15377502": {
+        "@type": "ScholarlyArticle",
+        "name": "The Los Alamos hepatitis C sequence database.",
+        "pmid": "15377502"
+    },
+    "pmid:12875108": {
+        "@type": "ScholarlyArticle",
+        "name": "HIV sequence databases.",
+        "pmid": "12875108"
+    },
+    "pmid:23093593": {
+        "@type": "ScholarlyArticle",
+        "name": "The Papillomavirus Episteme: a central resource for papillomavirus sequence data and analysis.",
+        "pmid": "23093593"
+    },
+    "pmid:39732323": {
+        "@type": "ScholarlyArticle",
+        "name": "PaVE 2.0: Behind the Scenes of the Papillomavirus Episteme.",
+        "pmid": "39732323"
+    },
+    "pmid:28053164": {
+        "@type": "ScholarlyArticle",
+        "name": "The Papillomavirus Episteme: a major update to the papillomavirus sequence database.",
+        "pmid": "28053164"
+    },
+    "pmid:30103997": {
+        "@type": "ScholarlyArticle",
+        "name": "Secondary analysis and participation of those at the data source.",
+        "pmid": "30103997"
+    },
+    "pmid:20304706": {
+        "@type": "ScholarlyArticle",
+        "name": "Monitoring antimalarial resistance: launching a cooperative effort.",
+        "pmid": "20304706"
+    },
+    "pmid:21184684": {
+        "@type": "ScholarlyArticle",
+        "name": "Implementation of a reference standard and proficiency testing programme by the World Wide Antimalarial Resistance Network (WWARN).",
+        "pmid": "21184684"
+    },
+    "pmid:24168965": {
+        "@type": "ScholarlyArticle",
+        "name": "Beyond the transcriptome: completion of act one of the Immunological Genome Project.",
+        "pmid": "24168965"
+    },
+    "pmid:32577013": {
+        "@type": "ScholarlyArticle",
+        "name": "ImmGen at 15.",
+        "pmid": "32577013"
+    },
+    "pmid:18800157": {
+        "@type": "ScholarlyArticle",
+        "name": "The Immunological Genome Project: networks of gene expression in immune cells.",
+        "pmid": "18800157"
+    },
+    "pmid:23243491": {
+        "@type": "ScholarlyArticle",
+        "name": "HIV Vaccine Trials Network: activities and achievements of the first decade and beyond.",
+        "pmid": "23243491"
+    },
+    "pmid:22080559": {
+        "@type": "ScholarlyArticle",
+        "name": "The Aspergillus Genome Database (AspGD): recent developments in comprehensive multispecies curation, comparative genomics and community resources.",
+        "pmid": "22080559"
+    },
+    "pmid:16372000": {
+        "@type": "ScholarlyArticle",
+        "name": "Sequencing of Aspergillus nidulans and comparative analysis with A. fumigatus and A. oryzae.",
+        "pmid": "16372000"
+    },
+    "pmid:32306541": {
+        "@type": "ScholarlyArticle",
+        "name": "Influenza response planning for the centers of excellence for influenza research and surveillance: Science preparedness for enhancing global health security.",
+        "pmid": "32306541"
+    },
+    "pmid:33364074": {
+        "@type": "ScholarlyArticle",
+        "name": "A 35-Year Review of Pre-Clinical HIV Therapeutics Research Reported by NIH ChemDB: Influences of Target Discoveries, Drug Approvals and Research Funding.",
+        "pmid": "33364074"
+    },
+    "pmid:25977815": {
+        "@type": "ScholarlyArticle",
+        "name": "A comprehensive map of genome-wide gene regulation in Mycobacterium tuberculosis.",
+        "pmid": "25977815"
+    },
+    "pmid:25581030": {
+        "@type": "ScholarlyArticle",
+        "name": "The DNA-binding network of Mycobacterium tuberculosis.",
+        "pmid": "25581030"
+    },
+    "pmid:37659604": {
+        "@type": "ScholarlyArticle",
+        "name": "PaxDb 5.0: Curated Protein Quantification Data Suggests Adaptive Proteome Changes in Yeasts.",
+        "pmid": "37659604"
+    },
+    "pmid:25656970": {
+        "@type": "ScholarlyArticle",
+        "name": "Version 4.0 of PaxDb: Protein abundance data, integrated across model organisms, tissues, and cell-lines.",
+        "pmid": "25656970"
+    },
+    "pmid:32805036": {
+        "@type": "ScholarlyArticle",
+        "name": "The National COVID Cohort Collaborative (N3C): Rationale, design, infrastructure, and deployment.",
+        "pmid": "32805036"
+    },
+    "pmid:31566225": {
+        "@type": "ScholarlyArticle",
+        "name": "OGRDB: a reference database of inferred immune receptor genes.",
+        "pmid": "31566225"
+    },
+    "pmid:17440619": {
+        "@type": "ScholarlyArticle",
+        "name": "Assessing performance of orthology detection strategies applied to eukaryotic genomes.",
+        "pmid": "17440619"
+    },
+    "pmid:21901743": {
+        "@type": "ScholarlyArticle",
+        "name": "Using OrthoMCL to assign proteins to OrthoMCL-DB groups or to cluster proteomes into new ortholog groups.",
+        "pmid": "21901743"
+    },
+    "pmid:12952885": {
+        "@type": "ScholarlyArticle",
+        "name": "OrthoMCL: identification of ortholog groups for eukaryotic genomes.",
+        "pmid": "12952885"
+    },
+    "pmid:16381887": {
+        "@type": "ScholarlyArticle",
+        "name": "OrthoMCL-DB: querying a comprehensive multi-species collection of ortholog groups.",
+        "pmid": "16381887"
+    },
+    "pmid:39327485": {
+        "@type": "ScholarlyArticle",
+        "name": "Enhancing the Polygenic Score Catalog with tools for score calculation and ancestry normalization.",
+        "pmid": "39327485"
+    },
+    "pmid:33692568": {
+        "@type": "ScholarlyArticle",
+        "name": "The Polygenic Score Catalog as an open database for reproducibility and systematic evaluation.",
+        "pmid": "33692568"
+    },
+    "pmid:27518657": {
+        "@type": "ScholarlyArticle",
+        "name": "The Yale Open Data Access (YODA) Project--A Mechanism for Data Sharing.",
+        "pmid": "27518657"
+    },
+    "pmid:40735981": {
+        "@type": "ScholarlyArticle",
+        "name": "Accelerating Innovation: Advancing Opportunities in HIV Vaccine Development.",
+        "pmid": "40735981"
+    },
+    "pmid:37953330": {
+        "@type": "ScholarlyArticle",
+        "name": "The UCSC Genome Browser database: 2024 update.",
+        "pmid": "37953330"
+    },
+    "pmid:34718705": {
+        "@type": "ScholarlyArticle",
+        "name": "The UCSC Genome Browser database: 2022 update.",
+        "pmid": "34718705"
+    },
+    "pmid:39460617": {
+        "@type": "ScholarlyArticle",
+        "name": "The UCSC Genome Browser database: 2025 update.",
+        "pmid": "39460617"
+    },
+    "pmid:36420891": {
+        "@type": "ScholarlyArticle",
+        "name": "The UCSC Genome Browser database: 2023 update.",
+        "pmid": "36420891"
+    },
+    "pmid:14681465": {
+        "@type": "ScholarlyArticle",
+        "name": "The UCSC Table Browser data retrieval tool.",
+        "pmid": "14681465"
+    },
+    "pmid:12520007": {
+        "@type": "ScholarlyArticle",
+        "name": "Human immunodeficiency virus reverse transcriptase and protease sequence database.",
+        "pmid": "12520007"
+    },
+    "pmid:24711005": {
+        "@type": "ScholarlyArticle",
+        "name": "USIDNET: a strategy to build a community of clinical immunologists.",
+        "pmid": "24711005"
+    },
+    "pmid:32654688": {
+        "@type": "ScholarlyArticle",
+        "name": "The Importance of Primary Immune Deficiency Registries: The United States Immunodeficiency Network Registry.",
+        "pmid": "32654688"
+    },
+    "pmid:32047873": {
+        "@type": "ScholarlyArticle",
+        "name": "ClinEpiDB: an open-access clinical epidemiology database resource encouraging online exploration of complex studies.",
+        "pmid": "32047873"
+    },
+    "pmid:40834404": {
+        "@type": "ScholarlyArticle",
+        "name": "A Cloud-Based Platform for Harmonized COVID-19 Data: Design and Implementation of the Rapid Acceleration of Diagnostics (RADx) Data Hub.",
+        "pmid": "40834404"
+    },
+    "pmid:29485622": {
+        "@type": "ScholarlyArticle",
+        "name": "ImmPort, toward repurposing of open access immunological assay data for translational and clinical research.",
+        "pmid": "29485622"
+    },
+    "pmid:19079050": {
+        "@type": "ScholarlyArticle",
+        "name": "A global network for investigating the genomic epidemiology of malaria.",
+        "pmid": "19079050"
+    },
+    "pmid:32929271": {
+        "@type": "ScholarlyArticle",
+        "name": "MassIVE.quant: a community resource of quantitative mass spectrometry-based proteomics datasets.",
+        "pmid": "32929271"
+    },
+    "pmid:37933855": {
+        "@type": "ScholarlyArticle",
+        "name": "NCBI GEO: archive for gene expression and epigenomics data sets: 23-year update.",
+        "pmid": "37933855"
+    },
+    "pmid:11752295": {
+        "@type": "ScholarlyArticle",
+        "name": "Gene Expression Omnibus: NCBI gene expression and hybridization array data repository.",
+        "pmid": "11752295"
+    },
+    "pmid:29557977": {
+        "@type": "ScholarlyArticle",
+        "name": "DASH, the data and specimen hub of the National Institute of Child Health and Human Development.",
+        "pmid": "29557977"
+    },
+    "pmid:11752306": {
+        "@type": "ScholarlyArticle",
+        "name": "The Protein Data Bank: unifying the archive.",
+        "pmid": "11752306"
+    },
+    "pmid:875032": {
+        "@type": "ScholarlyArticle",
+        "name": "The Protein Data Bank: a computer-based archival file for macromolecular structures.",
+        "pmid": "875032"
+    },
+    "pmid:27805161": {
+        "@type": "ScholarlyArticle",
+        "name": "The Protein Data Bank: Current Status and Future Challenges.",
+        "pmid": "27805161"
+    },
+    "pmid:9379928": {
+        "@type": "ScholarlyArticle",
+        "name": "Protein Data Bank archives of three-dimensional macromolecular structures.",
+        "pmid": "9379928"
+    },
+    "pmid:22404998": {
+        "@type": "ScholarlyArticle",
+        "name": "The Protein Data Bank at 40: reflecting on the past to prepare for the future.",
+        "pmid": "22404998"
+    },
+    "pmid:39973356": {
+        "@type": "ScholarlyArticle",
+        "name": "Protein Data Bank (PDB): Fifty-three years young and having a transformative impact on science and society.",
+        "pmid": "39973356"
+    },
+    "pmid:41206752": {
+        "@type": "ScholarlyArticle",
+        "name": "RCSB Protein Data Bank: Delivering integrative structures alongside experimental structures and computed structure models.",
+        "pmid": "41206752"
+    },
+    "pmid:10592235": {
+        "@type": "ScholarlyArticle",
+        "name": "The Protein Data Bank.",
+        "pmid": "10592235"
+    },
+    "pmid:30275573": {
+        "@type": "ScholarlyArticle",
+        "name": "Qiita: rapid, web-enabled microbiome meta-analysis.",
+        "pmid": "30275573"
+    },
+    "pmid:24297256": {
+        "@type": "ScholarlyArticle",
+        "name": "NCBI's Database of Genotypes and Phenotypes: dbGaP.",
+        "pmid": "24297256"
+    },
+    "pmid:28150243": {
+        "@type": "ScholarlyArticle",
+        "name": "NDEx: A Community Resource for Sharing and Publishing of Biological Networks.",
+        "pmid": "28150243"
+    },
+    "pmid:26594663": {
+        "@type": "ScholarlyArticle",
+        "name": "NDEx, the Network Data Exchange.",
+        "pmid": "26594663"
+    },
+    "pmid:29092941": {
+        "@type": "ScholarlyArticle",
+        "name": "NDEx 2.0: A Clearinghouse for Research on Cancer Pathways.",
+        "pmid": "29092941"
+    },
+    "pmid:36882166": {
+        "@type": "ScholarlyArticle",
+        "name": "NDEx IQuery: a multi-method network gene set analysis leveraging the Network Data Exchange.",
+        "pmid": "36882166"
+    },
+    "pmid:29867956": {
+        "@type": "ScholarlyArticle",
+        "name": "VDJServer: A Cloud-Based Analysis Portal and Data Commons for Immune Repertoire Sequences and Rearrangements.",
+        "pmid": "29867956"
+    },
+    "pmid:20974635": {
+        "@type": "ScholarlyArticle",
+        "name": "AmoebaDB and MicrosporidiaDB: functional genomic resources for Amoebozoa and Microsporidia species.",
+        "pmid": "20974635"
+    },
+    "pmid:26538599": {
+        "@type": "ScholarlyArticle",
+        "name": "Tools and data services registry: a community effort to document bioinformatics resources.",
+        "pmid": "26538599"
+    },
+    "pmid:14681426": {
+        "@type": "ScholarlyArticle",
+        "name": "CryptoDB: the Cryptosporidium genome resource.",
+        "pmid": "14681426"
+    },
+    "pmid:16381902": {
+        "@type": "ScholarlyArticle",
+        "name": "CryptoDB: a Cryptosporidium bioinformatics resource update.",
+        "pmid": "16381902"
+    },
+    "pmid:31452162": {
+        "@type": "ScholarlyArticle",
+        "name": "Accessing Cryptosporidium Omic and Isolate Data via CryptoDB.org.",
+        "pmid": "31452162"
+    },
+    "pmid:37081398": {
+        "@type": "ScholarlyArticle",
+        "name": "Schema Playground: a tool for authoring, extending, and using metadata schemas to improve FAIRness of biomedical data.",
+        "pmid": "37081398"
+    },
+    "doi:10.1145/1255175.1255280": {
+        "@type": "ScholarlyArticle",
+        "name": "DRIADE",
+        "doi": "10.1145/1255175.1255280"
+    },
+    "pmid:21772785": {
+        "@type": "ScholarlyArticle",
+        "name": "FigShare.",
+        "pmid": "21772785"
+    },
+    "pmid:22887982": {
+        "@type": "ScholarlyArticle",
+        "name": "FlowRepository: a resource of annotated flow cytometry datasets associated with peer-reviewed publications.",
+        "pmid": "22887982"
+    },
+    "pmid:38529759": {
+        "@type": "ScholarlyArticle",
+        "name": "What is new in FungiDB: a web-based bioinformatics platform for omics-scale data analysis for fungal and oomycete species.",
+        "pmid": "38529759"
+    },
+    "pmid:30152809": {
+        "@type": "ScholarlyArticle",
+        "name": "FungiDB: An Integrated Bioinformatic Resource for Fungi and Oomycetes.",
+        "pmid": "30152809"
+    },
+    "pmid:18824479": {
+        "@type": "ScholarlyArticle",
+        "name": "GiardiaDB and TrichDB: integrated genomic resources for the eukaryotic protist pathogens Giardia lamblia and Trichomonas vaginalis.",
+        "pmid": "18824479"
+    },
+    "doi:10.1177/0049124107306660": {
+        "@type": "ScholarlyArticle",
+        "name": "An Introduction to the Dataverse Network as an Infrastructure for Data Sharing",
+        "doi": "10.1177/0049124107306660"
+    },
+    "pmid:27903906": {
+        "@type": "ScholarlyArticle",
+        "name": "EuPathDB: the eukaryotic pathogen genomics database resource.",
+        "pmid": "27903906"
+    },
+    "pmid:31597973": {
+        "@type": "ScholarlyArticle",
+        "name": "The human body at cellular resolution: the NIH Human Biomolecular Atlas Program.",
+        "pmid": "31597973"
+    },
+    "pmid:40082611": {
+        "@type": "ScholarlyArticle",
+        "name": "Human BioMolecular Atlas Program (HuBMAP): 3D Human Reference Atlas construction and usage.",
+        "pmid": "40082611"
+    },
+    "pmid:29206104": {
+        "@type": "ScholarlyArticle",
+        "name": "The Human Cell Atlas.",
+        "pmid": "29206104"
+    },
+    "pmid:29092000": {
+        "@type": "ScholarlyArticle",
+        "name": "The Human Cell Atlas: Technical approaches and challenges.",
+        "pmid": "29092000"
+    },
+    "pmid:30243574": {
+        "@type": "ScholarlyArticle",
+        "name": "The Human Cell Atlas bone marrow single-cell interactive web portal.",
+        "pmid": "30243574"
+    },
+    "pmid:24518066": {
+        "@type": "ScholarlyArticle",
+        "name": "Metadata Standard and Data Exchange Specifications to Describe, Model, and Integrate Complex and Diverse High-Throughput Screening Data from the Library of Integrated Network-based Cellular Signatures (LINCS).",
+        "pmid": "24518066"
+    },
+    "doi:10.1109/eScience.2008.128": {
+        "@type": "ScholarlyArticle",
+        "name": "Mendeley - A Last.fm For Research?",
+        "doi": "10.1109/eScience.2008.128"
+    },
+    "pmid:29106667": {
+        "@type": "ScholarlyArticle",
+        "name": "MicrobiomeDB: a systems biology platform for integrating, mining and analyzing microbiome experiments.",
+        "pmid": "29106667"
+    },
+    "pmid:22139929": {
+        "@type": "ScholarlyArticle",
+        "name": "BioProject and BioSample databases at NCBI: facilitating capture and organization of metadata.",
+        "pmid": "22139929"
+    },
+    "pmid:21062823": {
+        "@type": "ScholarlyArticle",
+        "name": "The sequence read archive.",
+        "pmid": "21062823"
+    },
+    "pmid:28486464": {
+        "@type": "ScholarlyArticle",
+        "name": "Discovering and linking public omics data sets using the Omics Discovery Index.",
+        "pmid": "28486464"
+    },
+    "pmid:18957442": {
+        "@type": "ScholarlyArticle",
+        "name": "PlasmoDB: a functional genomic database for malaria parasites.",
+        "pmid": "18957442"
+    },
+    "pmid:30321381": {
+        "@type": "ScholarlyArticle",
+        "name": "Project Tycho 2.0: a repository to improve the integration and reuse of data for global population health.",
+        "pmid": "30321381"
+    },
+    "pmid:24727771": {
+        "@type": "ScholarlyArticle",
+        "name": "ProteomeXchange provides globally coordinated proteomics data submission and dissemination.",
+        "pmid": "24727771"
+    },
+    "pmid:30282735": {
+        "@type": "ScholarlyArticle",
+        "name": "The ReFRAME library as a comprehensive drug repurposing library and its application to the treatment of cryptosporidiosis.",
+        "pmid": "30282735"
+    },
+    "pmid:18003657": {
+        "@type": "ScholarlyArticle",
+        "name": "ToxoDB: an integrated Toxoplasma gondii database resource.",
+        "pmid": "18003657"
+    },
+    "pmid:19843604": {
+        "@type": "ScholarlyArticle",
+        "name": "TriTrypDB: a functional genomic resource for the Trypanosomatidae.",
+        "pmid": "19843604"
+    },
+    "pmid:17145709": {
+        "@type": "ScholarlyArticle",
+        "name": "VectorBase: a home for invertebrate vectors of human pathogens.",
+        "pmid": "17145709"
+    },
+    "pmid:19028744": {
+        "@type": "ScholarlyArticle",
+        "name": "VectorBase: a data resource for invertebrate vector genomics.",
+        "pmid": "19028744"
+    },
+    "pmid:18237287": {
+        "@type": "ScholarlyArticle",
+        "name": "Anatomical ontologies of mosquitoes and ticks, and their web browsers in VectorBase.",
+        "pmid": "18237287"
+    },
+    "pmid:38819572": {
+        "@type": "ScholarlyArticle",
+        "name": "VEuPathDB Resources: A Platform for Free Online Data Exploration, Integration, and Analysis.",
+        "pmid": "38819572"
+    },
+    "pmid:37953350": {
+        "@type": "ScholarlyArticle",
+        "name": "VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center in 2023.",
+        "pmid": "37953350"
+    },
+    "pmid:34718728": {
+        "@type": "ScholarlyArticle",
+        "name": "VEuPathDB: the eukaryotic pathogen, vector and host bioinformatics resource center.",
+        "pmid": "34718728"
+    },
+    "pmid:33122319": {
+        "@type": "ScholarlyArticle",
+        "name": "Timely access to trial data in the context of a pandemic: the time is now.",
+        "pmid": "33122319"
+    },
+    "doi:10.3897/biss.3.37080": {
+        "@type": "ScholarlyArticle",
+        "name": "Zenodo, an Archive and Publishing Repository: A tale of two herbarium specimen pilot projects",
+        "doi": "10.3897/biss.3.37080"
+    },
+    "pmid:15608260": {
+        "@type": "ScholarlyArticle",
+        "name": "ArrayExpress--a public repository for microarray gene expression data at the EBI.",
+        "pmid": "15608260"
+    },
+    "pmid:33211879": {
+        "@type": "ScholarlyArticle",
+        "name": "From ArrayExpress to BioStudies.",
+        "pmid": "33211879"
+    },
+    "pmid:14744115": {
+        "@type": "ScholarlyArticle",
+        "name": "ArrayExpress: a public database of gene expression data at EBI.",
+        "pmid": "14744115"
+    },
+    "pmid:12519949": {
+        "@type": "ScholarlyArticle",
+        "name": "ArrayExpress--a public repository for microarray gene expression data at the EBI.",
+        "pmid": "12519949"
+    },
+    "pmid:29069414": {
+        "@type": "ScholarlyArticle",
+        "name": "The BioStudies database-one stop shop for all data supporting a life sciences study.",
+        "pmid": "29069414"
+    }
+}
