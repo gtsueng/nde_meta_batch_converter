@@ -698,5 +698,85 @@
         "@type": "ScholarlyArticle",
         "name": "The BioStudies database-one stop shop for all data supporting a life sciences study.",
         "pmid": "29069414"
+    },
+    "pmid:31665515": {
+        "@type": "ScholarlyArticle",
+        "name": "Expression Atlas update: from tissues to single cells.",
+        "pmid": "31665515"
+    },
+    "pmid:41370097": {
+        "@type": "ScholarlyArticle",
+        "name": "Expression Atlas in 2026: enabling FAIR and open expression data through community collaboration and integration.",
+        "pmid": "41370097"
+    },
+    "pmid:19619283": {
+        "@type": "ScholarlyArticle",
+        "name": "European and Developing Countries Clinical Trials Partnership (EDCTP): the path towards a true partnership.",
+        "pmid": "19619283"
+    },
+    "pmid:32414825": {
+        "@type": "ScholarlyArticle",
+        "name": "International epidemiology databases to evaluate AIDS (IeDEA) in sub-Saharan Africa, 2012-2019.",
+        "pmid": "32414825"
+    },
+    "pmid:33588438": {
+        "@type": "ScholarlyArticle",
+        "name": "Antibacterial Resistance Leadership Group 2.0: Back to Business.",
+        "pmid": "33588438"
+    },
+    "pmid:32202756": {
+        "@type": "ScholarlyArticle",
+        "name": "Innovation in Antimicrobial Resistance: The CARB-X Perspective.",
+        "pmid": "32202756"
+    },
+    "pmid:31778197": {
+        "@type": "ScholarlyArticle",
+        "name": "The Infectious Disease Clinical Research Program: Overview.",
+        "pmid": "31778197"
+    },
+    "pmid:26219280": {
+        "@type": "ScholarlyArticle",
+        "name": "INA-RESPOND: a multi-centre clinical research network in Indonesia.",
+        "pmid": "26219280"
+    },
+    "pmid:37441774": {
+        "@type": "ScholarlyArticle",
+        "name": "International clinical research networks - a collaborative approach for pandemic preparedness and response: The case of The Mexican Emerging Infectious Disease Clinical Research Network (LaRed).",
+        "pmid": "37441774"
+    },
+    "pmid:41345089": {
+        "@type": "ScholarlyArticle",
+        "name": "Considerations and perspectives on phage therapy from the transatlantic taskforce on antimicrobial resistance.",
+        "pmid": "41345089"
+    },
+    "pmid:36689221": {
+        "@type": "ScholarlyArticle",
+        "name": "Rapid Development of an Integrated Network Infrastructure to Conduct Phase 3 COVID-19 Vaccine Trials.",
+        "pmid": "36689221"
+    },
+    "pmid:22982844": {
+        "@type": "ScholarlyArticle",
+        "name": "Community-researcher partnerships at NIAID HIV/AIDS clinical trials sites: insights for evaluation and enhancement.",
+        "pmid": "22982844"
+    },
+    "pmid:15740411": {
+        "@type": "ScholarlyArticle",
+        "name": "The Global HIV/AIDS Vaccine Enterprise: scientific strategic plan.",
+        "pmid": "15740411"
+    },
+    "pmid:20371484": {
+        "@type": "ScholarlyArticle",
+        "name": "Ten years of the Immune Tolerance Network: an integrated clinical research organization.",
+        "pmid": "20371484"
+    },
+    "pmid:29206999": {
+        "@type": "ScholarlyArticle",
+        "name": "Expansion of Viral Load Testing and the Potential Impact on HIV Drug Resistance.",
+        "pmid": "29206999"
+    },
+    "pmid:39752894": {
+        "@type": "ScholarlyArticle",
+        "name": "Meeting summary: Global vaccine and immunization research forum, 2023.",
+        "pmid": "39752894"
     }
 }
